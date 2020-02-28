@@ -1,6 +1,6 @@
-url: aalanding.github.io
-baseurl: \Projects\sdk\aalanding\_site\
-# baseurl: ""
+url: http://anyanalytics.app
+# baseurl: \Projects\sdk\landing\_site\
+baseurl: ""
 
 # Site settings
 title: any analytics app
