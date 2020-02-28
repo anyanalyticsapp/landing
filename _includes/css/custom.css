@@ -1,0 +1,27 @@
+/*!
+ * Some custom styles for the layouts beyond stadart theme
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ * Andrey Glushkov 2020
+ */
+
+
+/* cutting line style in the workflow graph */
+
+.center_line_text {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px dashed #bebebe; 
+    line-height: 0.1em;
+    margin: 10px 0 20px;     
+ } 
+ 
+ .center_line_text span { 
+     background:#fff; 
+     padding:0 10px; 
+     color: #D168E7;
+     /* font-family: {{ site.data.template.font.primary }}; */
+     font-style: italic;
+     font-style: oblique;
+     font-size: large;
+ }

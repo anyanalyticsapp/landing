@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>any analytics app</title>
+    <description>Data consulting, Analytical Reports, Analytics calculation, Analytics hosting, no code AI, hand crafted algorithms, AI for your business, easy integratable analytics</description>
+    <link>aalanding.github.io\Projects\sdk\aalanding\_site\/</link>
+    <atom:link href="aalanding.github.io\Projects\sdk\aalanding\_site\/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 28 Feb 2020 03:13:06 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Feb 2020 03:13:06 +0000</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>AI Mentor</title>
+        <description>
+</description>
+        <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+        <link>aalanding.github.io\Projects\sdk\aalanding\_site\/analytics%20app%20development,%20analytics%20app%20integration,%20analytics%20app%20hosting/2018/09/03/project-2-aimentorio/</link>
+        <guid isPermaLink="true">aalanding.github.io\Projects\sdk\aalanding\_site\/analytics%20app%20development,%20analytics%20app%20integration,%20analytics%20app%20hosting/2018/09/03/project-2-aimentorio/</guid>
+        
+        
+        <category>Analytics App Development, Analytics App Integration, Analytics App Hosting</category>
+        
+      </item>
+    
+      <item>
+        <title>Analytics Report for Private Customer</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+        <link>aalanding.github.io\Projects\sdk\aalanding\_site\/report,%20consultancy/2017/11/01/project-4-privateanalyticsreport/</link>
+        <guid isPermaLink="true">aalanding.github.io\Projects\sdk\aalanding\_site\/report,%20consultancy/2017/11/01/project-4-privateanalyticsreport/</guid>
+        
+        
+        <category>Report, Consultancy</category>
+        
+      </item>
+    
+      <item>
+        <title>Rankinity</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+        <link>aalanding.github.io\Projects\sdk\aalanding\_site\/development,%20integration/2016/03/01/project-3-rankinity/</link>
+        <guid isPermaLink="true">aalanding.github.io\Projects\sdk\aalanding\_site\/development,%20integration/2016/03/01/project-3-rankinity/</guid>
+        
+        
+        <category>Development, Integration</category>
+        
+      </item>
+    
+      <item>
+        <title>Selkeeper Tracker</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0000</pubDate>
+        <link>aalanding.github.io\Projects\sdk\aalanding\_site\/development,%20integration/2014/07/15/project-1-sk/</link>
+        <guid isPermaLink="true">aalanding.github.io\Projects\sdk\aalanding\_site\/development,%20integration/2014/07/15/project-1-sk/</guid>
+        
+        
+        <category>Development, Integration</category>
+        
+      </item>
+    
+  </channel>
+</rss>
