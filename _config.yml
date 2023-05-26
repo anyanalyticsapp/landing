@@ -1,6 +1,6 @@
 url: anyanalyticsapp.github.io
 baseurl: /landing/
-baseurl: ""
+# baseurl: ""
 
 # Site settings
 title: any analytics app
