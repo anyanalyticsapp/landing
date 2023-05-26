@@ -1,5 +1,5 @@
-url: https://anyanalyticsapp.github.io/landing
-# baseurl: \Projects\sdk\landing\_site\
+url: anyanalyticsapp.github.io
+baseurl: /landing/
 baseurl: ""
 
 # Site settings
